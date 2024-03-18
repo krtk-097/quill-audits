@@ -1,0 +1,16 @@
+button {
+  background: linear-gradient(
+    to right,
+    rgba(79, 55, 238, 1),
+    rgba(63, 122, 240, 1),
+    rgba(113, 132, 253, 1)
+  );
+  font-weight: 500;
+}
+button:hover {
+  background: #4f37ee;
+}
+nav div li:hover {
+  color: #f3701e;
+  cursor: pointer;
+}

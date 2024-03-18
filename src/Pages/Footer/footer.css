@@ -1,0 +1,5 @@
+.footer-container {
+    background: url("../../Assets/footerBG.svg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}

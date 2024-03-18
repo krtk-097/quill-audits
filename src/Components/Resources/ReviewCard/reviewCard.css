@@ -1,0 +1,8 @@
+.card-container {
+    box-shadow: 0px 3.200000047683716px 3.200000047683716px 0px #00000040;
+
+}
+.card-upper-container {
+    background: url("../../../Assets/Rectangle 33600.svg");
+    object-fit: contain;
+}

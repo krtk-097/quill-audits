@@ -1,0 +1,10 @@
+.before-section {
+   /* background: linear-gradient rgba(255, 171, 201, 1); */
+   background: linear-gradient( rgba(0, 0, 0, 0) -10%, #FFABC9 62%);
+
+
+}
+.after-section {
+    background: linear-gradient( rgba(0, 0, 0, 0) -10%, #ABCDFF 62%);
+
+}
